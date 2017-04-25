@@ -244,6 +244,7 @@ keyboardMapping.update({
     'f22':               _display.keysym_to_keycode(Xlib.XK.string_to_keysym('F22')),
     'f23':               _display.keysym_to_keycode(Xlib.XK.string_to_keysym('F23')),
     'f24':               _display.keysym_to_keycode(Xlib.XK.string_to_keysym('F24')),
+    'menu':              _display.keysym_to_keycode(Xlib.XK.string_to_keysym('F24')),
     'numlock':           _display.keysym_to_keycode(Xlib.XK.string_to_keysym('Num_Lock')),
     'scrolllock':        _display.keysym_to_keycode(Xlib.XK.string_to_keysym('Scroll_Lock')),
     'shiftleft':         _display.keysym_to_keycode(Xlib.XK.string_to_keysym('Shift_L')),

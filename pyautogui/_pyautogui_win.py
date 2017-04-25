@@ -168,6 +168,7 @@ keyboardMapping.update({
     'winleft': 0x5b, # VK_LWIN
     'winright': 0x5c, # VK_RWIN
     'apps': 0x5d, # VK_APPS
+    'menu': 0x5d, # VK_APPS
     'sleep': 0x5f, # VK_SLEEP
     'num0': 0x60, # VK_NUMPAD0
     'num1': 0x61, # VK_NUMPAD1
